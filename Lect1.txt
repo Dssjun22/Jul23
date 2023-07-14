@@ -5,3 +5,5 @@ Welcome to DSS..!!
 Welcome to Git & Github lect..
 
 Welcome to Software Testing batch..
+
+Timing - 7pm - 9pm
