@@ -1,5 +1,5 @@
 class Hello{
 	main(){
-		syso("Hello");
+		syso("Hello World");
 	}
 }
